@@ -1,5 +1,15 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.pom
 [debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.pom
 [debug] downloaded https://repo1.maven.org/maven2/org/apache/commons/commons-parent/32/commons-parent-32.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.pom
 [debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
-[debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11.jar
 [debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.9/commons-codec-1.9-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.11/scala-reflect-2.12.11-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.11/scala-compiler-2.12.11-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.11/scala-library-2.12.11-javadoc.jar
